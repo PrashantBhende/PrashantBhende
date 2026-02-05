@@ -1,0 +1,7 @@
+langchain>=0.1.0
+langgraph>=0.0.10
+torch>=2.0.0
+faiss-cpu>=1.7.4
+nvidia-nemo>=1.23.0
+pydantic>=2.5.0
+openai>=1.10.0
